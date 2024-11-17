@@ -49,19 +49,23 @@ This code implements a **Snake Game** in C. Below is the explanation of its func
 
 ## **Prerequisites**
 
-## \- A C compiler (e.g., GCC).
+\- A C compiler (e.g., GCC).
 
-## \- Windows operating system (for compatibility with \`conio.h\` and \`windows.h\`).
+\- Windows operating system (for compatibility with \`conio.h\` and \`windows.h\`).
 
 ## **How to Compile and Run**
 
-## 1\. Save the code to a file named \`snake\_game.c\`.
+1\. Save the code to a file named \`snake\_game.c\`.
 
-## 2\. Open a terminal or command prompt and navigate to the file's location.
+2\. Open a terminal or command prompt and navigate to the file's location.
 
-## 3\. Compile the program using:
+3\. Compile the program using:
 
-##    gcc snake\_game.c \-o snake\_game
+‘’’
+
+   gcc snake\_game.c \-o snake\_game
+
+‘’’
 
 ## **Controls**
 
